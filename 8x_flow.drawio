@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T12:48:29.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="LbhEISrf6FV_NcMvA5U9" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T07:35:58.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RIj4kv1uJenMaA-uCln1" version="17.4.2" type="github">
   <diagram id="4pXQrOWJEeSuhuyzBbQL" name="Page-1">
-    <mxGraphModel dx="988" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="l0locyyftSwh_tXuukIE-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FFFFFF;strokeColor=#999999;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1150" width="830" height="410" as="geometry" />
+          <mxGeometry x="10" y="1590" width="830" height="830" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FFFFFF;strokeColor=#999999;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="140" width="830" height="960" as="geometry" />
+          <mxGeometry x="10" y="140" width="830" height="1420" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;RFP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="95" y="110" width="50" height="20" as="geometry" />
@@ -24,19 +24,19 @@
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#A6A6A6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="1620" as="sourcePoint" />
+            <mxPoint x="220" y="2192" as="sourcePoint" />
             <mxPoint x="220" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#A6A6A6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="1620" as="sourcePoint" />
+            <mxPoint x="640" y="2180" as="sourcePoint" />
             <mxPoint x="640" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#A6A6A6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="1620" as="sourcePoint" />
+            <mxPoint x="440" y="2190" as="sourcePoint" />
             <mxPoint x="440" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -89,10 +89,10 @@
           </mxCell>
         </object>
         <mxCell id="l0locyyftSwh_tXuukIE-25" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;用户申请删除账号凭据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1300" width="150" height="40" as="geometry" />
+          <mxGeometry x="40" y="1740" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-26" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;账号已删除凭据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1290" width="130" height="40" as="geometry" />
+          <mxGeometry x="670" y="1730" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-27" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;发布信息提高曝光凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="660" y="640" width="160" height="40" as="geometry" />
@@ -127,17 +127,8 @@
         <mxCell id="l0locyyftSwh_tXuukIE-34" value="房产经纪人用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#ff9f32;fillColor=#ff9f32;fontSize=14;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="l0locyyftSwh_tXuukIE-44">
           <mxGeometry x="65" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="l0locyyftSwh_tXuukIE-45" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="270" y="630" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="l0locyyftSwh_tXuukIE-17" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;推广服务费用&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="l0locyyftSwh_tXuukIE-45">
-          <mxGeometry y="10" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="l0locyyftSwh_tXuukIE-43" value="房产经纪人用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#ff9f32;fillColor=#ff9f32;fontSize=14;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="l0locyyftSwh_tXuukIE-45">
-          <mxGeometry x="40" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-46" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;合法有效的房屋产权信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="275" y="300" width="105" height="40" as="geometry" />
+          <mxGeometry x="244.5" y="290" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-47" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;租赁信息&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="485" y="330" width="110" height="40" as="geometry" />
@@ -146,7 +137,7 @@
           <mxGeometry x="35" y="740" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-63" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;用户发布不实或非法信息凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1410" width="140" height="40" as="geometry" />
+          <mxGeometry x="45" y="1850" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-64" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;消息已发送凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="660" y="740" width="160" height="40" as="geometry" />
@@ -155,22 +146,137 @@
           <mxGeometry x="265" y="740" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-66" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;平台警告用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="262.5" y="1410" width="140" height="40" as="geometry" />
+          <mxGeometry x="257.5" y="1850" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-68" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;用户收到警告凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="665" y="1410" width="160" height="40" as="geometry" />
+          <mxGeometry x="665" y="1850" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-69" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;申请删除账号凭据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1300" width="130" height="40" as="geometry" />
+          <mxGeometry x="265" y="1740" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-70" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;申请注册账号凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="43" y="1170" width="140" height="40" as="geometry" />
+          <mxGeometry x="43" y="1610" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-71" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;身份验证&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1170" width="140" height="40" as="geometry" />
+          <mxGeometry x="260.5" y="1610" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0locyyftSwh_tXuukIE-72" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;账号已注册凭据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
-          <mxGeometry x="668" y="1170" width="140" height="40" as="geometry" />
+          <mxGeometry x="668" y="1610" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-74" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;身份验证且激活&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="273.25" y="340" width="123.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-75" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;申诉请求凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1930" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-76" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;解封账号凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="689.5" y="1930" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-77" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;驳回申诉且不可再申诉凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1980" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-78" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;搜索租赁信息请求凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="35" y="840" width="161.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-79" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;不是不实或非法内容下架的租赁信息+推广算法&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="835" width="172" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-80" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;展示搜索结果凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="660" y="840" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-83" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;浏览租赁信息请求凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="35" y="930" width="161.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-84" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;租赁信息可以被浏览&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="255" y="930" width="161.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-85" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;展示租赁信息凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="660" y="930" width="161.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-86" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;重新发布租赁信息请求凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="19.75" y="1020" width="186.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-87" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;不是不实或非法内容下架的租赁信息&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="241.5" y="1010" width="172" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-88" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;租赁信息已&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 14px&quot;&gt;发布&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="676.75" y="1020" width="146.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-90" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;暂停推广请求凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="20.75" y="1140" width="186.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-91" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;租赁信息下架请求凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="19.75" y="1190" width="186.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-92" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;暂停推广服务，且停止计费&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="246" y="1170" width="179.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-93" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;预充值凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="268.57000000000005" y="1280" width="109.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-94" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;推广服务申请凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="45.01" y="1280" width="133.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-95" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;开启推广凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="676.75" y="1280" width="133.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-96" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;账单凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="676.75" y="1380" width="133.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-97" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;CPC点击计费&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="1350" width="133.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-98" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;申请预充值凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="55.190000000000055" y="1490" width="109.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-99" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;支付凭据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="685.1900000000002" y="1490" width="109.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-100" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;广告点击次数&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="1400" width="133.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-101" value="第三方检测公司AdX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#ff9f32;fillColor=#ff9f32;fontSize=14;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1430" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-102" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="630" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-17" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;推广服务费用&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF66B3;strokeColor=#FF66B3;" vertex="1" parent="l0locyyftSwh_tXuukIE-102">
+          <mxGeometry y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-43" value="房产经纪人用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#ff9f32;fillColor=#ff9f32;fontSize=14;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="l0locyyftSwh_tXuukIE-102">
+          <mxGeometry x="40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;租赁信息&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;city&lt;br&gt;district&lt;br&gt;street&lt;br&gt;photo&lt;br&gt;description&lt;br&gt;&lt;/font&gt;" placeholders="1" type="contract" name="Contract" createdAt="created_at" id="l0locyyftSwh_tXuukIE-105">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;dashed=1;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="1160" y="190" width="170" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;租赁信息发布请求&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="l0locyyftSwh_tXuukIE-106">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;dashed=1;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="1470" y="160" width="170" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;br&gt;租赁信息发布确认&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="l0locyyftSwh_tXuukIE-107">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;dashed=1;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="1470" y="340" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="l0locyyftSwh_tXuukIE-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#1A1A1A;" edge="1" parent="1" source="l0locyyftSwh_tXuukIE-106" target="l0locyyftSwh_tXuukIE-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="290" as="sourcePoint" />
+            <mxPoint x="1650" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-115" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];dashed=1;fontSize=14;fontColor=#1A1A1A;strokeColor=#999999;fillColor=none;gradientColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="l0locyyftSwh_tXuukIE-114">
+          <mxGeometry x="-0.82" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0locyyftSwh_tXuukIE-116" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];dashed=1;fontSize=14;fontColor=#1A1A1A;strokeColor=#999999;fillColor=none;gradientColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="l0locyyftSwh_tXuukIE-114">
+          <mxGeometry x="0.72" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
