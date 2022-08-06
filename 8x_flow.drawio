@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T13:41:57.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mJFk1NMY4UdaoOY89It5" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-06T13:44:44.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4IYBo7uSuf7Wu-_fODtZ" version="20.0.3" type="github">
   <diagram id="4pXQrOWJEeSuhuyzBbQL" name="Page-1">
-    <mxGraphModel dx="1235" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1535" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,9 +1021,25 @@
             <mxGeometry x="4520" y="1630.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4500" y="1700" width="200" height="50.00000000000023" as="geometry" />
+        </mxCell>
         <object label="买受人竞拍不买证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-49">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-51">
+            <mxGeometry x="20" y="10.000000000000227" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/question-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-51">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <object label="拍品委托合同" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-52">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1700.0000000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4280" y="386.14" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="竞品拍卖合同" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-53">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="4280" y="1334.24" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
       </root>
