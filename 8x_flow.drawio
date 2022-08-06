@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T13:44:44.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4IYBo7uSuf7Wu-_fODtZ" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-06T13:45:52.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QibBrLh4x5wnLlh9ST8M" version="20.0.3" type="github">
   <diagram id="4pXQrOWJEeSuhuyzBbQL" name="Page-1">
     <mxGraphModel dx="1535" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -875,19 +875,19 @@
         </mxCell>
         <mxCell id="IpOtNCA-YeN15g-_5VlD-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#A6A6A6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3980" y="1927.5" as="sourcePoint" />
+            <mxPoint x="3980" y="1800" as="sourcePoint" />
             <mxPoint x="3980" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IpOtNCA-YeN15g-_5VlD-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#A6A6A6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4480" y="1912.5" as="sourcePoint" />
+            <mxPoint x="4480" y="1790" as="sourcePoint" />
             <mxPoint x="4480" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IpOtNCA-YeN15g-_5VlD-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#A6A6A6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4250" y="1912.5" as="sourcePoint" />
+            <mxPoint x="4250" y="1800" as="sourcePoint" />
             <mxPoint x="4250" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1040,6 +1040,16 @@
         <object label="竞品拍卖合同" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-53">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4280" y="1334.24" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="买受人竞拍申请" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-54">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="3760" y="1314.2400000000002" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="买受人竞拍价格" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-55">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="4030" y="1320.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
       </root>
