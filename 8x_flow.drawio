@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T13:50:04.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pM6J1xidSukjhEck4vme" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-07T15:16:29.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bIXv5tAHqD2GKr7m4yHl" version="20.0.3" type="github">
   <diagram id="4pXQrOWJEeSuhuyzBbQL" name="Page-1">
-    <mxGraphModel dx="1445" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3070" dy="3823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -896,7 +896,7 @@
             <mxGeometry x="4520" y="90" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="平台估值结果证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-23">
+        <object label="拍品估值结果证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="160" width="180" height="40" as="geometry" />
           </mxCell>
@@ -911,19 +911,9 @@
             <mxGeometry x="4030" y="100" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="讨论拍卖方案证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-27">
+        <object label="拍卖方案确定证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-27">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="238" width="180" height="40" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="签署委托协议证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-28">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="301.90999999999997" width="180" height="40" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="拍品交给平台证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-29">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="386.14" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="平台保管拍品证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-30">
@@ -961,11 +951,6 @@
             <mxGeometry x="4520" y="870.0000000000001" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="委托人撤回拍品申请" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-37">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="3720" y="874" width="180" height="40" as="geometry" />
-          </mxCell>
-        </object>
         <object label="委托⼈⽀付撤回服务费证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-38">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="940.0000000000001" width="180" height="40" as="geometry" />
@@ -979,11 +964,6 @@
         <object label="竞买⼈浏览拍品公告证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-40">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="1129.2400000000002" width="180" height="40" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="竞买人签署竞买协议证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-41">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1199.2400000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="竞买人缴纳保证⾦证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-42">
@@ -1021,17 +1001,6 @@
             <mxGeometry x="4520" y="1630.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="IpOtNCA-YeN15g-_5VlD-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4500" y="1700" width="200" height="50.00000000000023" as="geometry" />
-        </mxCell>
-        <object label="买受人竞拍不买证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-49">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-51">
-            <mxGeometry x="20" y="10.000000000000227" width="180" height="40" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="IpOtNCA-YeN15g-_5VlD-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/question-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-51">
-          <mxGeometry width="40" height="40" as="geometry" />
-        </mxCell>
         <object label="拍品委托合同" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-52">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4280" y="386.14" width="180" height="40" as="geometry" />
@@ -1047,6 +1016,967 @@
             <mxGeometry x="3750" y="1314.2400000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4510" y="1700" width="190" height="50.00000000000023" as="geometry" />
+        </mxCell>
+        <object label="买受人竞拍不买证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-49">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-58">
+            <mxGeometry x="10" y="10.000000000000227" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-58">
+          <mxGeometry width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4520" y="1185.24" width="200" height="54.00000000000023" as="geometry" />
+        </mxCell>
+        <object label="竞买人签署竞买协议证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-41">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-59">
+            <mxGeometry x="20" y="14.000000000000227" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-59">
+          <mxGeometry width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="1">
+          <mxGeometry x="4510" y="150" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-231" value="拍卖委托上下文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5565" y="-975" width="110" height="30" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;委托人询问估值&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="rfp" name="Request for Proposal" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-90">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="5550" y="-821" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;平台响应估价&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="proposal" name="Proposal" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-92">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="5820" y="-821" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;拍卖委托合同&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="contract" name="Contract" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-93">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="6090" y="-821" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-161" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="-609.76" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;取回拍品申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-123">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-161">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-158" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-161" source="IpOtNCA-YeN15g-_5VlD-123" target="IpOtNCA-YeN15g-_5VlD-244">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-70" as="sourcePoint" />
+            <mxPoint x="290" y="49.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-159" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-158">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-160" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-158">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;取回拍品&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-244">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-161">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-162" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="-190" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;支付撤回服务费申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-120">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-162">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-155" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-162" source="IpOtNCA-YeN15g-_5VlD-120" target="IpOtNCA-YeN15g-_5VlD-247">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-156" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-155">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-157" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-155">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;支付撤回服务费&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-247">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-162">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-163" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="-750" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;撤回拍品申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-118">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-163">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-152" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-163" source="IpOtNCA-YeN15g-_5VlD-118" target="IpOtNCA-YeN15g-_5VlD-243">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-153" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-152">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-154" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-152">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;撤回拍品&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-243">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-163">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-164" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="-470" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;支付流拍服务费申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-116">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-164">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-149" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-164" source="IpOtNCA-YeN15g-_5VlD-116" target="IpOtNCA-YeN15g-_5VlD-245">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-75.76000000000022" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-150" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-149">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-151" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-149">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;支付流拍服务费&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-245">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-164">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-165" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="-330" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;支付剩余款项申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-114">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-165">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-165" source="IpOtNCA-YeN15g-_5VlD-114" target="IpOtNCA-YeN15g-_5VlD-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-74.24000000000001" as="sourcePoint" />
+            <mxPoint x="295.89999999999964" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-147" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-146">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-148" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-146">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;支付剩余款项&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-246">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-165">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-166" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="-890" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;扣除服务费申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-111">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-166">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-143" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-166" source="IpOtNCA-YeN15g-_5VlD-111" target="IpOtNCA-YeN15g-_5VlD-242">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-76" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-144" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-143">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-145" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-143">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;扣除服务费&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-242">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-166">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-167" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="-50" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;拍卖成交申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-109">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-167">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-167" source="IpOtNCA-YeN15g-_5VlD-109" target="IpOtNCA-YeN15g-_5VlD-241">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="305.89999999999964" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-141" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-140">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-142" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-140">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;拍卖成交确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-241">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-167">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-168" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6494.1" y="-1030" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;公告竞品申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-107">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-168">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;公告竞品确认&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-108">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-168">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-137" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-168" source="IpOtNCA-YeN15g-_5VlD-107" target="IpOtNCA-YeN15g-_5VlD-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-75.31999999999971" as="sourcePoint" />
+            <mxPoint x="300.0000000000009" y="-75.31999999999971" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-138" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-137">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-139" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-137">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-169" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6494.1" y="-1170.32" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;拍品保管申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-105">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-169">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;拍品保管确认&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-106">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-169">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-134" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-169" source="IpOtNCA-YeN15g-_5VlD-105" target="IpOtNCA-YeN15g-_5VlD-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-76.95000000000005" as="sourcePoint" />
+            <mxPoint x="300.0000000000009" y="-76.95000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-135" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-134">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-136" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-134">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-170" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6494.1" y="-1310.27" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;拍卖方案申请&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-102">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-170">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;拍卖方案确认&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-104">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-170">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-131" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-170" source="IpOtNCA-YeN15g-_5VlD-102" target="IpOtNCA-YeN15g-_5VlD-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-78.26999999999998" as="sourcePoint" />
+            <mxPoint x="300.0000000000009" y="-78.26999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-132" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-131">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-133" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-131">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-171" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6484.1" y="-1468.27" width="470" height="117.73000000000002" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;拍品估值结果申请&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-97">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-171">
+            <mxGeometry x="10" y="17.730000000000018" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;拍品估值结果确认&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-99">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-171">
+            <mxGeometry x="300" y="17.730000000000018" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-100" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-171">
+          <mxGeometry width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-171">
+          <mxGeometry x="290" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-128" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-171" source="IpOtNCA-YeN15g-_5VlD-97" target="IpOtNCA-YeN15g-_5VlD-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.9999999999991" y="-64" as="sourcePoint" />
+            <mxPoint x="310.0000000000009" y="-64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-129" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-128">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-130" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-128">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-172" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6494.1" y="-1590" width="460" height="100.00000000000003" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;拍品估值申请&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-94">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-172">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;拍品估值确认&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-98">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-172">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-125" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-172" source="IpOtNCA-YeN15g-_5VlD-94" target="IpOtNCA-YeN15g-_5VlD-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="338.27" as="sourcePoint" />
+            <mxPoint x="250" y="128.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-126" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-125">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-127" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-125">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-176" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-90" target="IpOtNCA-YeN15g-_5VlD-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5720" y="-899.6800000000001" as="sourcePoint" />
+            <mxPoint x="5820" y="-899.6800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-177" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-176">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-178" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-176">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-182" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-92" target="IpOtNCA-YeN15g-_5VlD-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6070" y="-779.6800000000001" as="sourcePoint" />
+            <mxPoint x="6170" y="-779.6800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-183" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-182">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-184" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-182">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-193" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="1">
+          <mxGeometry x="6010" y="-800" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-194" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6520" y="-1270" as="sourcePoint" />
+            <mxPoint x="6620" y="-1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-195" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-194">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-196" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-194">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-197" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6290" y="-1100" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-198" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-197">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-199" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-197">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-200" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6260" y="-1130" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-1390.54" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-201" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-200">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-202" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-200">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-203" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6260" y="-1131.3200000000002" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-1250.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-204" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-203">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-205" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-203">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-206" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6280" y="-880" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-1110.3199999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-207" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-206">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-208" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-206">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-209" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6240" y="-930" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-210" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-209">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-211" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-209">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-212" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6260" y="-1131.3200000000002" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-213" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-212">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-214" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-212">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-215" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6270" y="-761" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-216" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-215">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-217" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-215">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-218" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6270" y="-761" as="sourcePoint" />
+            <mxPoint x="6504.1" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-219" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-218">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-220" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-218">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-221" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6170" y="-610" as="sourcePoint" />
+            <mxPoint x="6504.100000000001" y="-409.7600000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-222" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-221">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-223" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-221">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-224" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6210" y="-620" as="sourcePoint" />
+            <mxPoint x="6504.100000000001" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-225" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-224">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-226" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-224">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-227" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-93" target="IpOtNCA-YeN15g-_5VlD-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6270" y="-761" as="sourcePoint" />
+            <mxPoint x="6504.100000000001" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-228" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-227">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-229" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-227">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-282" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="1">
+          <mxGeometry x="4500" y="1390" width="34" height="34" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;竞品拍卖合同&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="contract" name="Contract" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-238">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="6160" y="510.24" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-248" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="260" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;浏览竞品公告申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-249">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-248">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-250" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-248" source="IpOtNCA-YeN15g-_5VlD-249" target="IpOtNCA-YeN15g-_5VlD-253">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-251" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-250">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-252" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-250">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;浏览竞品公告&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-253">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-248">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-254" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="400" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;缴纳保证金申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-255">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-254">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-256" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-254" source="IpOtNCA-YeN15g-_5VlD-255" target="IpOtNCA-YeN15g-_5VlD-259">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-257" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-256">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-258" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-256">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;缴纳保证金&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-259">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-254">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-261" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="540" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;应价竞品申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-262">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-261">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-263" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-261" source="IpOtNCA-YeN15g-_5VlD-262" target="IpOtNCA-YeN15g-_5VlD-266">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-264" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-263">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-265" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-263">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;应价竞品&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-266">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-261">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-267" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="680" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;退还保证金申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-268">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-267">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-269" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-267" source="IpOtNCA-YeN15g-_5VlD-268" target="IpOtNCA-YeN15g-_5VlD-272">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-270" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-269">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-271" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-269">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;退还保证金&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-272">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-267">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-273" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="959" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;签署拍品成交协议申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-274">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-273">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-275" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-273" source="IpOtNCA-YeN15g-_5VlD-274" target="IpOtNCA-YeN15g-_5VlD-278">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-276" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-275">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-277" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-275">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;签署拍品成交协议&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-278">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-273">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-283" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="120" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;支付尾款申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-284">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-283">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-285" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-283" source="IpOtNCA-YeN15g-_5VlD-284" target="IpOtNCA-YeN15g-_5VlD-288">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-286" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-285">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-287" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-285">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;支付尾款&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-288">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-283">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-289" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6500" y="820" width="460" height="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;提货申请&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;%createdAt%&lt;br&gt;%expiredAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="fulfillment" name="Fulfillment Request" expiredAt="expired_at" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-290">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-289">
+            <mxGeometry width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-291" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IpOtNCA-YeN15g-_5VlD-289" source="IpOtNCA-YeN15g-_5VlD-290" target="IpOtNCA-YeN15g-_5VlD-294">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999991" y="-80" as="sourcePoint" />
+            <mxPoint x="290" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-292" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-291">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-293" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-291">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;提货&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;确认&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="confirmation" name="Fulfillment Confirmation" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-294">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-289">
+            <mxGeometry x="290" width="170" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-301" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-238" target="IpOtNCA-YeN15g-_5VlD-274">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6350" y="386" as="sourcePoint" />
+            <mxPoint x="6450" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-302" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-301">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-303" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-301">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="" n="1" m="*" id="IpOtNCA-YeN15g-_5VlD-304">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-238" target="IpOtNCA-YeN15g-_5VlD-249">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="6330" y="556" as="sourcePoint" />
+              <mxPoint x="6390" y="656" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-305" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-304">
+          <mxGeometry x="-0.78" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-306" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-304">
+          <mxGeometry x="0.72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="" n="1" m="*" id="IpOtNCA-YeN15g-_5VlD-307">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-238" target="IpOtNCA-YeN15g-_5VlD-255">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="6340" y="570.2399999999998" as="sourcePoint" />
+              <mxPoint x="6530" y="295.2399999999998" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-308" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-307">
+          <mxGeometry x="-0.78" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-309" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-307">
+          <mxGeometry x="0.72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="" n="1" m="*" id="IpOtNCA-YeN15g-_5VlD-310">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-238" target="IpOtNCA-YeN15g-_5VlD-262">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="6340" y="570.2399999999998" as="sourcePoint" />
+              <mxPoint x="6530" y="436" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-311" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-310">
+          <mxGeometry x="-0.78" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-312" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-310">
+          <mxGeometry x="0.72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="" n="1" m="*" id="IpOtNCA-YeN15g-_5VlD-313">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-238" target="IpOtNCA-YeN15g-_5VlD-268">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="6340" y="570.2399999999998" as="sourcePoint" />
+              <mxPoint x="6530" y="576" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-314" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-313">
+          <mxGeometry x="-0.78" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-315" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-313">
+          <mxGeometry x="0.72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-316" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-238" target="IpOtNCA-YeN15g-_5VlD-284">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6340" y="570.2399999999998" as="sourcePoint" />
+            <mxPoint x="6530" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-317" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-316">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-318" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-316">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-319" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-238" target="IpOtNCA-YeN15g-_5VlD-290">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6340" y="570.2399999999998" as="sourcePoint" />
+            <mxPoint x="6530" y="856" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-320" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-319">
+          <mxGeometry x="-0.74" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-321" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpOtNCA-YeN15g-_5VlD-319">
+          <mxGeometry x="0.8" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpOtNCA-YeN15g-_5VlD-324" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;dashed=1;fontSize=18;fontColor=#FFFFFF;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IpOtNCA-YeN15g-_5VlD-288" target="IpOtNCA-YeN15g-_5VlD-241">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6880" y="80" as="sourcePoint" />
+            <mxPoint x="6950" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
