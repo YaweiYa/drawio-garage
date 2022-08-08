@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T15:16:29.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bIXv5tAHqD2GKr7m4yHl" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T12:03:19.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PMXJom710QALMbUR4w8w" version="20.0.3" type="github">
   <diagram id="4pXQrOWJEeSuhuyzBbQL" name="Page-1">
-    <mxGraphModel dx="3070" dy="3823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="3198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -891,12 +891,12 @@
             <mxPoint x="4250" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="卖家申请估值证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-11">
+        <object label="申请估值证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="90" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="拍品估值结果证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-23">
+        <object label="估值结果证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="160" width="180" height="40" as="geometry" />
           </mxCell>
@@ -916,7 +916,7 @@
             <mxGeometry x="4520" y="238" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="平台保管拍品证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-30">
+        <object label="保管拍品证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-30">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="447.73" width="180" height="40" as="geometry" />
           </mxCell>
@@ -936,59 +936,59 @@
             <mxGeometry x="4520" y="658.6800000000001" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="⽀付委托⼈剩余款项证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-34">
+        <object label="支付剩余款项证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-34">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="732.0000000000001" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="委托⼈⽀付流拍服务费证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-35">
+        <object label="⽀付流拍服务费证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-35">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="4520" y="804.0000000000001" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="委托⼈撤回拍品证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-36">
+        <object label="撤回拍品证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-36">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="870.0000000000001" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="935.0000000000001" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="委托⼈⽀付撤回服务费证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-38">
+        <object label="⽀付撤回服务费证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-38">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="940.0000000000001" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1005.0000000000001" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="委托⼈取回拍品证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-39">
+        <object label="取回拍品证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-39">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1014.2400000000001" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1074.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="竞买⼈浏览拍品公告证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-40">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1129.2400000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1320.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="竞买人缴纳保证⾦证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-42">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1270.0000000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1394.2400000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="竞买人应价证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-43">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1334.2400000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1470.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="签署拍品成交协议证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-44">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1394.2400000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1630.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="平台退还保证⾦证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-45">
+        <object label="退还保证⾦证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-45">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1470.0000000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1950.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <object label="买受人支付尾款证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-46">
+        <object label="支付尾款证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-46">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1540.0000000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1710.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="买受人提货申请" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-47">
@@ -998,7 +998,7 @@
         </object>
         <object label="买受人提货证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-48">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="4520" y="1630.0000000000002" width="180" height="40" as="geometry" />
+            <mxGeometry x="4520" y="1790.0000000000002" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="拍品委托合同" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-52">
@@ -1017,30 +1017,21 @@
           </mxCell>
         </object>
         <mxCell id="IpOtNCA-YeN15g-_5VlD-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4510" y="1700" width="190" height="50.00000000000023" as="geometry" />
+          <mxGeometry x="4510" y="1860" width="190" height="50.00000000000023" as="geometry" />
         </mxCell>
-        <object label="买受人竞拍不买证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-49">
+        <object label="竞拍不买证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-49">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-58">
             <mxGeometry x="10" y="10.000000000000227" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="IpOtNCA-YeN15g-_5VlD-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-58">
-          <mxGeometry width="34" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="IpOtNCA-YeN15g-_5VlD-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4520" y="1185.24" width="200" height="54.00000000000023" as="geometry" />
+          <mxGeometry x="4500" y="1230.24" width="200" height="54.00000000000023" as="geometry" />
         </mxCell>
         <object label="竞买人签署竞买协议证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-41">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-59">
             <mxGeometry x="20" y="14.000000000000227" width="180" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="IpOtNCA-YeN15g-_5VlD-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="IpOtNCA-YeN15g-_5VlD-59">
-          <mxGeometry width="34" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="IpOtNCA-YeN15g-_5VlD-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="1">
-          <mxGeometry x="4510" y="150" width="34" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="IpOtNCA-YeN15g-_5VlD-231" value="拍卖委托上下文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5565" y="-975" width="110" height="30" as="geometry" />
         </mxCell>
@@ -1640,9 +1631,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IpOtNCA-YeN15g-_5VlD-282" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-circle-128.png" vertex="1" parent="1">
-          <mxGeometry x="4500" y="1390" width="34" height="34" as="geometry" />
-        </mxCell>
         <object label="&lt;font color=&quot;#ffffff&quot;&gt;&amp;lt;%type%&amp;gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;竞品拍卖合同&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;%createdAt%&lt;br&gt;&lt;/font&gt;" placeholders="1" type="contract" name="Contract" createdAt="created_at" id="IpOtNCA-YeN15g-_5VlD-238">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD669E;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
             <mxGeometry x="6160" y="510.24" width="170" height="100" as="geometry" />
@@ -1977,6 +1965,36 @@
             <mxPoint x="6950" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <object label="底价确定证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-325">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="4520" y="874.6400000000001" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="确认竞买人真实身份证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-327">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="4520" y="1174.2400000000002" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 12px;&quot;&gt;估计成本计算器&lt;/font&gt;" placeholders="1" type="领域服务" id="IpOtNCA-YeN15g-_5VlD-330">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F58934;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=default;" vertex="1" parent="1">
+            <mxGeometry x="4675" y="1480" width="90" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="竞拍延时证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-331">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="4520" y="1550.0000000000002" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="买受人签收证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-332">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="4750" y="1790.0000000000002" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="交接保管证据" placeholders="1" type="业务能力服务" id="IpOtNCA-YeN15g-_5VlD-333">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2607A;noLabel=0;comic=0;recursiveResize=1;fontColor=#FFFFFF;strokeColor=#CC0066;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="4760" y="447.73000000000025" width="180" height="40" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
